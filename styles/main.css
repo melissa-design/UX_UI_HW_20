@@ -66,6 +66,7 @@ h1,
 .h1 {
     font-size: 4rem;
     line-height: 3.6rem;
+    margin-bottom: 1rem;
 }
 
 h2,
@@ -127,6 +128,7 @@ strong {
 .subtitle2 {
     font-size: 1.11rem;
     text-transform: uppercase;
+    margin-bottom: 0px;
 }
 
 body {
@@ -179,4 +181,8 @@ footer a {
     margin: 0 auto;
     padding-left: 1rem;
     padding-right: 1rem;
+}
+
+.centered {
+    text-align: center;
 }
