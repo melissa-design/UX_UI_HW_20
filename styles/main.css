@@ -187,10 +187,6 @@ footer a {
     text-align: center;
 }
 
-.background1 {
-    background-color: cyan;
-}
-
 .btn-primary {
     background-color: #ECECE7;
     color: black;
@@ -198,7 +194,11 @@ footer a {
     font-family: var(--bodyfont);
 }
 
-.btn-primary:hover {
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary:active:focus {
     background-color: #BCBBAE;
     color: black;
+    box-shadow: none;
 }
