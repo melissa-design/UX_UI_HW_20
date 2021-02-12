@@ -150,6 +150,10 @@ body {
 
 /* Spacers */
 
+.spacer {
+    height: 2rem;
+}
+
 .spacer1 {
     height: 5rem;
 }
