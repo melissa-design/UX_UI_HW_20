@@ -192,7 +192,13 @@ footer a {
 }
 
 .btn-primary {
-    background-color: white;
+    background-color: #ECECE7;
     color: black;
-    border-color: black;
+    border: none;
+    font-family: var(--bodyfont);
+}
+
+.btn-primary:hover {
+    background-color: #BCBBAE;
+    color: black;
 }
