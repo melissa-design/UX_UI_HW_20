@@ -29,6 +29,18 @@ html {
     font-family: var(--bodyfont);
 }
 
+.white-text {
+    color: white;
+}
+
+.white-bg {
+    background-color: white;
+}
+
+.dark-bg {
+    background-color: #1F2933;
+}
+
 @media screen and (max-width: 360px) {
     html {
         font-size: 14px;
