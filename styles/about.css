@@ -50,10 +50,6 @@
                 grid-gap: 4rem;
             }
             
-            .blue-bg {
-                background-color: #425C70;
-            }
-            
             .journey-grid {
                 display: grid;
                 gap: 4rem;
@@ -85,5 +81,4 @@
             
             .card img {
                 padding-bottom: 0.5rem;
-                margin:
             }

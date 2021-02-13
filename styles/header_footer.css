@@ -119,6 +119,15 @@ footer {
     gap: 1.5rem;
 }
 
+footer p {
+    margin-bottom: 0;
+}
+
+header p,
+header h4 {
+    margin-bottom: 0;
+}
+
 .burger img {
     width: 27px;
     height: 18px;
