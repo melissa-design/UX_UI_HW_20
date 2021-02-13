@@ -49,18 +49,8 @@
             .grid-container-skills {
                 grid-gap: 4rem;
             }
-            /* .leaves {
-    width: 80%;
-    float: right;
-    shape-outside: polygon(53% 0, 73% 4%, 84% 43%, 93% 56%, 79% 100%, 51% 97%, 20% 100%, 9% 66%, 13% 31%, 27% 7%);
-} */
-            /* 
-.centered-container {
-    margin: 0 auto;
-    max-width: 1640px;
-} */
             
-            .journey {
+            .blue-bg {
                 background-color: #425C70;
             }
             
@@ -85,7 +75,7 @@
                 padding: 1rem;
             }
             
-            .design-thoughts-grid {
+            .grey-bg {
                 background-color: #E9E9E9;
             }
             
