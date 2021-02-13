@@ -41,6 +41,10 @@ html {
     background-color: #1F2933;
 }
 
+.blue-bg {
+    background-color: #425C70;
+}
+
 @media screen and (max-width: 360px) {
     html {
         font-size: 14px;
